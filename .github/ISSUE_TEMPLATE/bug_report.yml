@@ -1,0 +1,30 @@
+name: Bug Report / Reportar Error
+description: Report a bug or unexpected behavior in Urraca PDF for Windows
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve Urraca PDF! **Do not attach confidential PDFs.** If possible, attach a dummy/sanitized test file.
+  - type: input
+    id: version
+    attributes:
+      label: Urraca PDF Version
+      placeholder: "e.g. 1.7.1"
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows Version
+      placeholder: "e.g. Windows 11 24H2 (64-bit)"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened? / ¿Qué ocurrió?
+      description: Describe the issue and steps to reproduce it.
+    validations:
+      required: true

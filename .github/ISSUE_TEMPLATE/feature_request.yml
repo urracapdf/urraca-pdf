@@ -1,0 +1,17 @@
+name: Feature Request / Sugerir Función
+description: Suggest a new tool or improvement for Urraca PDF
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What workflow or problem would this solve?
+      description: Explain how you use Urraca PDF and what feature would save you time.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Additional context
+      description: Any details, shortcuts, or format requirements.
