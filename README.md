@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://urracapdf.com/download/"><img alt="Download Windows" src="https://img.shields.io/badge/Windows%2010%2F11%20(64--bit)-v1.7.1%20(26.6%20MB)-1B7A3E?style=for-the-badge" /></a>
   <a href="https://urracapdf.com/"><img alt="100% Local" src="https://img.shields.io/badge/Processing-100%25%20Offline%20%26%20Local-0f172a?style=for-the-badge" /></a>
-  <a href="https://urracapdf.com/pricing/"><img alt="No Ads" src="https://img.shields.io/badge/Ads-Zero%20Ads%20%2F%20No%20Tracking-1B7A3E?style=for-the-badge" /></a>
+  <a href="https://urracapdf.com/pricing/"><img alt="No ads" src="https://img.shields.io/badge/Ads-None-1B7A3E?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -27,10 +27,10 @@
 Most "free" online PDF tools require you to upload contracts, tax records, IDs, and medical documents to third-party servers. Desktop suites like Adobe Acrobat lock basic workflows behind expensive monthly subscriptions.
 
 **Urraca PDF** runs 100% locally on your Windows PC:
-- **Edit:** Modify text and images directly in place while preserving original fonts and layout.
-- **Convert:** Convert between PDF, Word, and images without leaving your machine.
+- **Edit:** Add text, images and notes, and correct existing text in many PDFs. If a change would damage the page, Urraca refuses it and tells you why.
+- **Convert:** PDF to Word, Excel and images without leaving your machine. Word, Excel and PowerPoint to PDF need Microsoft Office or LibreOffice installed.
 - **Organize:** Merge, split by file size or page count, reorder, rotate, and delete pages.
-- **Local OCR:** Turn scanned PDFs and photos into searchable, selectable text offline.
+- **Local OCR:** Turn scanned PDFs into searchable, selectable text offline (English, Spanish, Portuguese and French).
 - **Protect & Redact:** Permanently redact sensitive information, apply passwords, and restrict permissions.
 - **Sign, Stamp & Bates Numbering:** Sign forms, flatten documents, add watermarks, stamps, and folio/Bates numbers.
 - **Batch Processing & Direct TWAIN Scanning:** Process folders of PDFs in bulk and scan straight from hardware scanners.
@@ -70,8 +70,8 @@ Get-FileHash .\Urraca_1.7.1_x64-setup.exe -Algorithm SHA256
 
 ### ¿Por qué Urraca PDF?
 Las herramientas web gratuitas te obligan a subir contratos, identificaciones y estados de cuenta a servidores externos. **Urraca PDF** procesa todo **100% en tu computadora Windows**, sin publicidad y sin subir archivos a ninguna nube:
-- **Editar y Convertir:** Edita texto e imágenes directo en la página; convierte entre PDF, Word e imágenes en local.
-- **OCR Local:** Convierte documentos escaneados en texto buscable y editable sin conexión a internet.
+- **Editar y Convertir:** Añade texto, imágenes y notas, y corrige el texto existente en muchos PDF (si un cambio fuera a estropear la página, Urraca no lo hace y te lo dice). Convierte PDF a Word, Excel e imágenes en local; para pasar Word, Excel o PowerPoint a PDF hace falta Microsoft Office o LibreOffice.
+- **OCR Local:** Convierte documentos escaneados en texto que se puede buscar y copiar, sin conexión (español, inglés, portugués y francés).
 - **Censura Permanente y Protección:** Elimina datos sensibles de forma irreversible, cifra con contraseña y restringe permisos.
 - **Dividir por Peso, Lotes, Sellos y Foliador:** Herramientas pensadas para despachos jurídicos, contadores y oficinas.
 
